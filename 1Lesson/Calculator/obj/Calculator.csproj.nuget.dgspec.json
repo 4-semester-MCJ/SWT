@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/chri/4_semester/swtest/1Lesson/Calculator/Calculator.csproj": {}
+    "/home/chri/4_semester/swtest/SWT/1Lesson/Calculator/Calculator.csproj": {}
   },
   "projects": {
-    "/home/chri/4_semester/swtest/1Lesson/Calculator/Calculator.csproj": {
+    "/home/chri/4_semester/swtest/SWT/1Lesson/Calculator/Calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/chri/4_semester/swtest/1Lesson/Calculator/Calculator.csproj",
+        "projectUniqueName": "/home/chri/4_semester/swtest/SWT/1Lesson/Calculator/Calculator.csproj",
         "projectName": "Calculator",
-        "projectPath": "/home/chri/4_semester/swtest/1Lesson/Calculator/Calculator.csproj",
+        "projectPath": "/home/chri/4_semester/swtest/SWT/1Lesson/Calculator/Calculator.csproj",
         "packagesPath": "/home/chri/.nuget/packages/",
-        "outputPath": "/home/chri/4_semester/swtest/1Lesson/Calculator/obj/",
+        "outputPath": "/home/chri/4_semester/swtest/SWT/1Lesson/Calculator/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/chri/.nuget/NuGet/NuGet.Config"
