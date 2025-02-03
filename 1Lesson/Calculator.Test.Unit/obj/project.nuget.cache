@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "XhFQE5151hc4mzdzCNN7VdSGJxxLMqAFuMwcGe/2l3t043ugQNAV1ReUPHplbGRhA24dxyYHRUX7iWqvIt6e7Q==",
+  "success": true,
+  "projectFilePath": "/home/chri/4_semester/swtest/SWT/1Lesson/Calculator.Test.Unit/Calculator.Test.Unit.csproj",
+  "expectedPackageFiles": [
+    "/home/chri/.nuget/packages/coverlet.collector/6.0.0/coverlet.collector.6.0.0.nupkg.sha512",
+    "/home/chri/.nuget/packages/microsoft.codecoverage/17.6.0/microsoft.codecoverage.17.6.0.nupkg.sha512",
+    "/home/chri/.nuget/packages/microsoft.net.test.sdk/17.6.0/microsoft.net.test.sdk.17.6.0.nupkg.sha512",
+    "/home/chri/.nuget/packages/microsoft.testplatform.objectmodel/17.6.0/microsoft.testplatform.objectmodel.17.6.0.nupkg.sha512",
+    "/home/chri/.nuget/packages/microsoft.testplatform.testhost/17.6.0/microsoft.testplatform.testhost.17.6.0.nupkg.sha512",
+    "/home/chri/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/home/chri/.nuget/packages/nuget.frameworks/5.11.0/nuget.frameworks.5.11.0.nupkg.sha512",
+    "/home/chri/.nuget/packages/nunit/4.3.2/nunit.4.3.2.nupkg.sha512",
+    "/home/chri/.nuget/packages/nunit.analyzers/3.6.1/nunit.analyzers.3.6.1.nupkg.sha512",
+    "/home/chri/.nuget/packages/nunit3testadapter/4.6.0/nunit3testadapter.4.6.0.nupkg.sha512",
+    "/home/chri/.nuget/packages/system.reflection.metadata/1.6.0/system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
