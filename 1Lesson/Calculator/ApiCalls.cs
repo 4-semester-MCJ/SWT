@@ -1,5 +1,8 @@
 var builder = WebApplication.CreateBuilder(args);
 var app = builder.Build();
+#include "Calculator.cs"
+
+
 
 // The code is set up for 
 //http://127.0.0.1:5155/add?a=2&b=3
@@ -7,23 +10,6 @@ var app = builder.Build();
 //app.MapGet("/add/{a}/{b}", (int a, int b) => $"The sum of {a} and {b} is: {a + b}");
 // and the URL will be 
 //http://127.0.0.1:5155/add/2/3
-
-
-double Add(double a, double b){
-    return a + b; 
-}
-
-double Subtract(double a, double b){
-    return a - b; 
-}
-
-double Multiply(double a, double b){
-    return a * b; 
-}
-
-double Power(double x, double exp){
-    return Math.Pow(x, exp);
-}
 
 
 app.MapGet("/add/{a}/{b}", (double a, double b) => {
