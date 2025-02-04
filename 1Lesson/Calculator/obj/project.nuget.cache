@@ -1,8 +1,20 @@
 {
   "version": 2,
-  "dgSpecHash": "D7aoy638Q50a5R00kCOuaSJjiuaZZgi83dcu/ZSuUp2uzq34naxYma8CvGyi8hDIrvn3z0gOVbiNdtMdptgUZg==",
+  "dgSpecHash": "47VEEsARy7bHPVzjIW6+1b8irAvMYA17OMF2iDTx0nc6+2equ6PrMkDPl8n2LrqkZ1P9RSJV2lu1AmnQX78Z5w==",
   "success": true,
   "projectFilePath": "/home/chri/4_semester/swtest/SWT/1Lesson/Calculator/Calculator.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/chri/.nuget/packages/microsoft.codecoverage/17.6.0/microsoft.codecoverage.17.6.0.nupkg.sha512",
+    "/home/chri/.nuget/packages/microsoft.net.test.sdk/17.6.0/microsoft.net.test.sdk.17.6.0.nupkg.sha512",
+    "/home/chri/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/home/chri/.nuget/packages/microsoft.testplatform.objectmodel/17.6.0/microsoft.testplatform.objectmodel.17.6.0.nupkg.sha512",
+    "/home/chri/.nuget/packages/microsoft.testplatform.testhost/17.6.0/microsoft.testplatform.testhost.17.6.0.nupkg.sha512",
+    "/home/chri/.nuget/packages/netstandard.library/2.0.0/netstandard.library.2.0.0.nupkg.sha512",
+    "/home/chri/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/home/chri/.nuget/packages/nuget.frameworks/5.11.0/nuget.frameworks.5.11.0.nupkg.sha512",
+    "/home/chri/.nuget/packages/nunit/3.13.3/nunit.3.13.3.nupkg.sha512",
+    "/home/chri/.nuget/packages/nunit3testadapter/4.0.0/nunit3testadapter.4.0.0.nupkg.sha512",
+    "/home/chri/.nuget/packages/system.reflection.metadata/1.6.0/system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
   "logs": []
 }

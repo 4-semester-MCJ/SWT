@@ -29,5 +29,47 @@ namespace CalculatorTestNamespace
             Assert.That(result, Is.EqualTo(5));
 
         }
+        [Test]
+        public void Subtract_TwoNumbers_CorrectResult()
+        {
+            // Arrange
+            int a = 10;
+            int b = 5;
+
+            // Act
+            var result = _calculator.Subtract(a, b);
+
+            // Assert
+            Assert.That(result, Is.EqualTo(5));
+
+        }
+        [Test]
+        public void Multiply_TwoNumbers_CorrectResult()
+        {
+            // Arrange
+            int a = 2;
+            int b = 4;
+
+            // Act
+            var result = _calculator.Multiply(a, b);
+
+            // Assert
+            Assert.That(result, Is.EqualTo(8));
+
+        }
+        [Test]
+        public void Power_TwoNumbers_CorrectResult()
+        {
+            // Arrange
+            int a = 2;
+            int b = 3;
+
+            // Act
+            var result = _calculator.Power(a, b);
+
+            // Assert
+            Assert.That(result, Is.EqualTo(8));
+
+        }
     }
 }
