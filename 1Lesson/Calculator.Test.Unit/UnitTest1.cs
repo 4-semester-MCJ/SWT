@@ -2,12 +2,13 @@ using NUnit.Framework;
 using CalculatorNamespace; // Ensure this namespace is correct
 
 
-namespace Calculator.Test.Unit
+namespace CalculatorTestNamespace
 {
     [TestFixture] // This is a NUnit attribute that tells the test runner that this is a test class 
     public class UnitTest
     {
         private Calculator _calculator;
+
         [SetUp]
         public void Setup()
         {
@@ -25,7 +26,8 @@ namespace Calculator.Test.Unit
             var result = _calculator.Add(a, b);
 
             // Assert
-            Assert.AreEqual(5, result);
+            Assert.That(result, Is.EqualTo(5));
+
         }
     }
 }
